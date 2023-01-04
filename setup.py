@@ -11,7 +11,7 @@ except ImportError:
 with open('README.md') as f:
     readme = f.read()
 
-setup(name='chevron',
+setup(name='chevron2021',
       version=chevron.metadata.version,
       license='MIT',
 
